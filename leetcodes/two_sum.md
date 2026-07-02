@@ -23,6 +23,14 @@
 
 ## Solution
 
+### Using 2 for-loops
+
+```python
+
+```
+
+### Using Hash Map
+
 ```python
 class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:
