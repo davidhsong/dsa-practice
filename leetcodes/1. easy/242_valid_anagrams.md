@@ -1,7 +1,7 @@
 # Valid Anagram
 
 **Link:** [#242 - Valid Anagram](https://leetcode.com/problems/valid-anagram/description/)  
-**Difficulty:** East
+**Difficulty:** Easy
 **Date:** 06-26-2026
 
 ---
